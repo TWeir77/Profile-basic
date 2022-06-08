@@ -1,0 +1,36 @@
+.header {
+    background-color: darkred;
+    text-align: center;
+    border: 2px solid
+  }
+  
+  .about-me {
+    font-size: 20px;
+    opacity: 0.8;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  h1 {
+    color: Azure;
+  }
+  
+  body {
+    font-family: Georgia;
+    background-image: url("https://i.pinimg.com/originals/4b/c9/3d/4bc93df3dbda516abad9ccb6c4c70806.jpg");
+  }
+  
+  .content {
+    color: white;
+  }
+  
+  .profile {
+    border: 5px black solid;
+  }
+  
+  a {
+    color: white;
+    font-weight: bold
+  }
